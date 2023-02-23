@@ -1,3 +1,4 @@
+/*
 .App {
   text-align: center;
 }
@@ -36,3 +37,56 @@
     transform: rotate(360deg);
   }
 }
+*/
+app {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.inLine {
+  display: inline-block;
+  flex-direction: row;
+}
+/*
+#sub1 {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#operatorAdd {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#operatorSubtract {
+  display: inline-block;
+  flex-direction: row;
+}
+#add2 {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#sub2 {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#equalAdd {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#resultAdd {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#equalSubtract {
+  display: inline-block;
+  flex-direction: row;
+}
+
+#resultSubtract {
+  display: inline-block;
+  flex-direction: row;
+}*/
